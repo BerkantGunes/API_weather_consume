@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdonetCustomerProject1", "AdonetCustomerProject1\AdonetCustomerProject1.csproj", "{7CEED006-2716-4A49-86FA-3852A8E76209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDbFirstProduct2", "EFDbFirstProduct2\EFDbFirstProduct2.csproj", "{D15896A7-B725-4ABC-9307-2E3D876A19CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFStatistics3", "EFStatistics3\EFStatistics3.csproj", "{95A37740-66C4-4FD9-B7D5-08031DE74179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCodeFirstMovie4", "EFCodeFirstMovie4\EFCodeFirstMovie4.csproj", "{5807C5FB-8FA9-42AA-AEF8-8204CE079514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_DapperNorthwind", "Project5_DapperNorthwind\Project5_DapperNorthwind.csproj", "{67EEDB11-1BED-48A5-83F2-2D1F744B8446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6_ApiWeather", "Project6_ApiWeather\Project6_ApiWeather.csproj", "{25656304-A557-43DA-8765-AD67AFCC2627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{ADFC48A5-E6B5-4BE0-A354-ED509D6CE2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CEED006-2716-4A49-86FA-3852A8E76209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEED006-2716-4A49-86FA-3852A8E76209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEED006-2716-4A49-86FA-3852A8E76209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEED006-2716-4A49-86FA-3852A8E76209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15896A7-B725-4ABC-9307-2E3D876A19CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15896A7-B725-4ABC-9307-2E3D876A19CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15896A7-B725-4ABC-9307-2E3D876A19CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15896A7-B725-4ABC-9307-2E3D876A19CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A37740-66C4-4FD9-B7D5-08031DE74179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A37740-66C4-4FD9-B7D5-08031DE74179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A37740-66C4-4FD9-B7D5-08031DE74179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A37740-66C4-4FD9-B7D5-08031DE74179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5807C5FB-8FA9-42AA-AEF8-8204CE079514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5807C5FB-8FA9-42AA-AEF8-8204CE079514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5807C5FB-8FA9-42AA-AEF8-8204CE079514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5807C5FB-8FA9-42AA-AEF8-8204CE079514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EEDB11-1BED-48A5-83F2-2D1F744B8446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EEDB11-1BED-48A5-83F2-2D1F744B8446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EEDB11-1BED-48A5-83F2-2D1F744B8446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EEDB11-1BED-48A5-83F2-2D1F744B8446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25656304-A557-43DA-8765-AD67AFCC2627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25656304-A557-43DA-8765-AD67AFCC2627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25656304-A557-43DA-8765-AD67AFCC2627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25656304-A557-43DA-8765-AD67AFCC2627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFC48A5-E6B5-4BE0-A354-ED509D6CE2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFC48A5-E6B5-4BE0-A354-ED509D6CE2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFC48A5-E6B5-4BE0-A354-ED509D6CE2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFC48A5-E6B5-4BE0-A354-ED509D6CE2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8245BF-08AC-4F41-A5C9-5D42CE9C9570}
+	EndGlobalSection
+EndGlobal
